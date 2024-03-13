@@ -1,3 +1,2 @@
-#EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000
+#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="TV NASIONAL", NET HD
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621.ts
