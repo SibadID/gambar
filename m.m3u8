@@ -1,3 +1,5 @@
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="⚽️🇮🇩 LIGA BRI 🇮🇩⚽️ ",LIGA BRI
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 12) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
+#EXTM3U
+#EXT-X-TARGETDURATION:65535
+#EXT-X-VERSION:2
+#EXTINF:65535,
+#http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
