@@ -1,2 +1,3 @@
-#EXTINF: -1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="TV NASIONAL", NET HD
+#EXTM3U
+#EXTINF:-1,Channel 3
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621.ts
