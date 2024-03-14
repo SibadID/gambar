@@ -1,12 +1,6 @@
-
 #EXTM3U
-#-----------------------------------------------------------
-#--Created with VSPP Streamer version 9.0.4.0 build  Commit_id: 81369b5fdfc6dfee53d9801d53da299b97a89fa4 Commit_time: 1686059166 context IAKPPEAAIHIGLNFG-GJIBKCAAIHIGLNFG
-#-----------------------------------------------------------
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-TARGETDURATION:6
-#EXT-X-PROGRAM-DATE-TIME:2024-03-14T10:11:33.465Z
-#EXT-X-MEDIA-SEQUENCE:621415
-#EXTINF:6,
+#EXT-X-MEDIA-SEQUENCE:427599266
+#EXT-X-VERSION:3
+#EXT-X-KEY:METHOD=NONE
+#EXTINF:4,
 http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/162138
