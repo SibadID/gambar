@@ -3,4 +3,4 @@
 #EXT-X-TARGETDURATION:10
 
 #EXTINF:10.0,
-http://startv365.com:80//live/D85A79B4/55A7743D/45098.ts
+http://iptvkita.my.id:25461/Toni/0895810355575/3
